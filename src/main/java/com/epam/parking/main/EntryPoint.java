@@ -1,5 +1,8 @@
 package com.epam.parking.main;
 
+import com.epam.parking.entity.Car;
+import com.epam.parking.entity.Parking;
+
 /**
  * Use for ...
  */

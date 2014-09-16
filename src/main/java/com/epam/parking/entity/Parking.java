@@ -1,4 +1,4 @@
-package com.epam.parking.main;
+package com.epam.parking.entity;
 
 import java.util.ArrayList;
 import java.util.Collections;
